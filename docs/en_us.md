@@ -43,4 +43,4 @@ static void Main(string[] args) => CommandParser.Parse<MyCommandClass>(args);
 
 4. Then we can run `.\Test.exe "Mike"` to run the command we have created.
 
-5. SummerFramework.Commandline has built in a `help` command to display the description you set.s
+5. SummerFramework.Commandline has built in a `help` command to display the description you set
